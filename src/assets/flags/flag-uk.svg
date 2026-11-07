@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 40" role="img" aria-label="Bandiera Regno Unito">
+  <rect width="60" height="40" fill="#012169"></rect>
+
+  <!-- diagonali bianche -->
+  <path d="M0,0 L60,40 M60,0 L0,40" stroke="#FFFFFF" stroke-width="8"></path>
+
+  <!-- diagonali rosse -->
+  <path d="M0,0 L60,40 M60,0 L0,40" stroke="#C8102E" stroke-width="4"></path>
+
+  <!-- croce bianca -->
+  <rect x="24" y="0" width="12" height="40" fill="#FFFFFF"></rect>
+  <rect x="0" y="14" width="60" height="12" fill="#FFFFFF"></rect>
+
+  <!-- croce rossa -->
+  <rect x="26" y="0" width="8" height="40" fill="#C8102E"></rect>
+  <rect x="0" y="16" width="60" height="8" fill="#C8102E"></rect>
+</svg>
